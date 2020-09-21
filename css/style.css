@@ -1,0 +1,104 @@
+.div-1{
+	width: 24%;
+	height: 30%;
+	background-color: #f5efeb;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+}
+.div-2{
+	width: 24%;
+	height: 5%;
+	background-color: #151412;
+	position: absolute;
+	left: 0%;
+	top: 30%;
+}
+.div-3{
+	width: 24%;
+	height: 38%;
+	background-color: #f5efeb;
+	position: absolute;
+	left: 0%;
+	top: 35%;
+}
+.div-4{
+	width: 24%;
+	height: 3%;
+	background-color: #151412;
+	position: absolute;
+	left: 0%;
+	top: 73%;
+}
+.div-5{
+	width: 24%;
+	height: 24%;
+	background-color: #1c3290;
+	position: absolute;
+	left: 0%;
+	top: 76%;
+}
+.div-6{
+	width: 3%;
+	height: 100%;
+	background-color: #151412;
+	position: absolute;
+	left: 24%;
+	top: 0%;
+}
+.div-7{
+	width: 73%;
+	height: 73%;
+	background-color: #c1231b;
+	position: absolute;
+	left: 27%;
+	top: 0%;
+}
+.div-8{
+	width: 73%;
+	height: 3%;
+	background-color: #151412;
+	position: absolute;
+	left: 27%;
+	top: 73%;
+}
+.div-9{
+	width: 66%;
+	height: 24%;
+	background-color: #f5efeb;
+	position: absolute;
+	left: 27%;
+	top: 76%;
+}
+.div-10{
+	width: 2.5%;
+	height: 24%;
+	background-color: #151412;
+	position: absolute;
+	left: 93%;
+	top: 76%;
+}
+.div-11{
+	width: 4.5%;
+	height: 11%;
+	background-color: #f5efeb;
+	position: absolute;
+	left: 95.5%;
+	top: 76%;
+}
+.div-12{
+	width: 4.5%;
+	height: 4%;
+	background-color: #151412;
+	position: absolute;
+	left: 95.5%;
+	top: 87%;
+}
+.div-13{
+	width: 4.5%;
+	height: 9%;
+	background-color: #edc80e;
+	position: absolute;
+	left: 95.5%;
+	top: 91%;
+}
